@@ -519,4 +519,3 @@ This module can be unloaded (as root) with the command **rmmod usbest** then if2
 [22]: http://if2a.free.fr/contact.html
 [23]: http://if2a.homeunix.org:81
   
-Night Mode
